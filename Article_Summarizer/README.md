@@ -1,0 +1,1 @@
+## A simple gradio application to summarize long news articles
